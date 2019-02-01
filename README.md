@@ -1,7 +1,7 @@
 # SwiftDSL
 Core method(s) for writing Swift DSL.
 
-Is serves as dependency for:
+`SwiftDSL` serves as dependency for:
 * https://github.com/maxvol/CoreAnimationDSL/
 * https://github.com/maxvol/GameplayKitDSL/
 * https://github.com/maxvol/SpriteKitDSL/
@@ -22,4 +22,8 @@ let line = UIBezierPath().apply {
     $0.addLine(to: lowerLeftCorner)
     $0.addLine(to: center)
 }
+```
+Carthage config:
+```
+github "maxvol/SwiftDSL" ~> 0.0.1
 ```
