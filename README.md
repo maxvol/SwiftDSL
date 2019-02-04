@@ -1,6 +1,8 @@
 # SwiftDSL
 Core method(s) for writing Swift DSL.
 
+** WORK IN PROGRESS, NOT USABLE AS OF YET **
+
 `SwiftDSL` serves as dependency for:
 * https://github.com/maxvol/CoreAnimationDSL/
 * https://github.com/maxvol/GameplayKitDSL/
